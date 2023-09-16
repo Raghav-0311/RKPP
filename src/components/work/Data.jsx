@@ -1,7 +1,7 @@
 import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
-// import Work4 from "../../assets/work4.jpg";
+import Work4 from "../../assets/work4.jpg";
 // import Work5 from "../../assets/work5.jpg";
 
 export const projectData = [
@@ -32,15 +32,15 @@ export const projectData = [
         codeLink: 'https://github.com/Raghav-0311/Auth-Tester',
         demoLink: 'https://auth-tester.onrender.com/',
     },
-    // {
-    //     id: 4,
-    //     image: Work4,
-    //     title: 'Service app',
-    //     category: 'app',
-    //     tech: ["React", "Tailwind"],
-    //     codeLink: 'https://github.com',
-    //     demoLink: 'https://github.com',
-    // },
+    {
+        id: 4,
+        image: Work4,
+        title: 'Flixit',
+        category: 'MERN Stack',
+        tech: ["Full Stack", "MERN"],
+        codeLink: 'https://github.com/Raghav-0311/Flixit-FSD-Project',
+        demoLink: 'https://flixit-51mi9t5u7-raghav-0311.vercel.app/',
+    },
     // {
     //     id: 5,
     //     image: Work5,
